@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4839
+
+Open a buffer for writing without having to create the parent directories leading up to the filename.
+https://github.com/artnez/vim-writepath
